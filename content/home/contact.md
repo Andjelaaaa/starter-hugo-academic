@@ -1,6 +1,6 @@
 ---
 widget: contact
-widget_id: Contact
+widget_id: contact
 headless: true
 weight: 130
 title: Contact
@@ -16,4 +16,3 @@ content:
 design:
   columns: "2"
 ---
-{{< icon name="mail" pack="fas" >}} andjeladimi98@gmail.com
