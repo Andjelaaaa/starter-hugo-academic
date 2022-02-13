@@ -31,7 +31,7 @@ item:
   organization_url: https://ivado.ca/en/events/6th-ivado-mila-deep-learning-school/
   title: 6th IVADO/Mila Deep Learning School
   url: ""
-[comment]: <>(- certificate_url: https://www.edx.org
+[//]: # (- certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
