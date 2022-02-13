@@ -43,4 +43,4 @@ I am a first year PhD student at [NeuroPoly](https://neuro.polymtl.ca/index.html
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Dimitrijevic_Andjela_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
