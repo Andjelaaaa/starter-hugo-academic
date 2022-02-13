@@ -2,8 +2,7 @@
 title: Andjela Dimitrijevic
 role: Ph.D. Student in Biomedical Engineering
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - MRI
