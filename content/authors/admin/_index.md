@@ -38,8 +38,7 @@ email: andjeladimi98@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a first year PhD student at [NeuroPoly](https://neuro.polymtl.ca/index.html) under the supervision of [Benjamin De Leener](https://www.polymtl.ca/expertises/en/de-leener-benjamin). I am also co-supervised by [Vincent Noblet](https://images.icube.unistra.fr/en/index.php/Vincent_Noblet) from Télécom Physique Strasbourg. My project aims to identify relationships between brain structure, genomic variations and potential neurological disorders in pediatric populations. To accomplish this objective, we will build a reference model of brain neurodevelopment as well as an age-related predictive model relating to the potential risk of neurological disorders from brain MRI and genomic data.
-
+I am a first year PhD student at [NeuroPoly](https://neuro.polymtl.ca/index.html) under the supervision of [Benjamin De Leener](https://www.polymtl.ca/expertises/en/de-leener-benjamin). I am also co-supervised by [Fanny Dégeilh](https://team.inria.fr/empenn/team-members/fanny-degeilh/) from Empenn research team affiliated with the National Institute of Health and Scientific Research. Some collaborators include [Vincent Noblet](https://images.icube.unistra.fr/en/index.php/Vincent_Noblet) from Télécom Physique Strasbourg and [Miriam Beauchamp](https://psy.umontreal.ca/repertoire-departement/professeures/professeures/in/in14959/sg/Miriam%20Beauchamp/) from Université de Montréal. My project is titled Normative Modeling of Pediatric Brain MR Images for Neurodevelopmental Trajectory Characterization. It aims at developing a continuous referential able to capture longitudinal changes as normal/abnormal trajectories, with a particular interest for pediatric neurodevelopmental studies. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Dimitrijevic_Andjela_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
